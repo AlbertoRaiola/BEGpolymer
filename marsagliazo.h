@@ -1,0 +1,9 @@
+float		ran1real_( );
+float		ran2real_( );
+double	        ran1double_( );
+double	        ran2double_( );
+float		rangauss_( );
+int		ranint_( );
+void		initran_( );
+void		ran_read( );
+void		ran_write( );
