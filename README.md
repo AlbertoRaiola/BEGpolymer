@@ -21,6 +21,7 @@ An example of input file is test.in.
 Output files are:
 
 - datiE.csv datiC.csv, datiX.csv, datiRG.csv, datiM.csv (time series of observables);
+- t400d2_*.dat (a file for each MC chain, where configurations are printed);
 - t400d7.tab (statistics, in particular the first column is the inverse temperature and the height column is the specific heat);
 - t400d2.dia (energy, magnetization, gyration radius and vacancies with error, autocorrelation times and their errors);
 - t400d2.tab (garbage).
